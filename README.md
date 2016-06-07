@@ -1,14 +1,14 @@
-![CSS SP Logo](logo-jssp-small.png "CSS SP")
+![JS SP Logo](logo-jssp-small.png "JS SP")
 ======
 
-* [Apresentação do Meetup](https://speakerdeck.com/raphaelfabeni/bem-vindos-ao-meetp-css)
+* [Apresentação do Meetup](#)
 * [Meetups já realizados](meetups.md)
 
 _"De todos para todos!"_
 
 A ideia do Meetup de Javascript surgiu para aprender coisas novas, conhecer novos profissionais e fortalecer a comunidade.
 
-A ideia do Meetup de Javascript surgiu para aprender coisas novas, conhecer novos profissionais e fortalecer a comunidade. É organizado atualmente por mim ([Daniel Castro](https://twitter.com/dancasttro)) e pelo [Pedro Araújo](https://twitter.com/pedrotcaraujo).
+A ideia do Meetup de Javascript surgiu para aprender coisas novas, conhecer novos profissionais e fortalecer a comunidade. É organizado atualmente por mim ([Pedro Araujo](https://twitter.com/pedrotcaraujo)).
 O objetivo do repositório é reunir as principais informações, como links, fotos e palestras sobre os meetups.
 
 * [Meetups](meetups.md)
