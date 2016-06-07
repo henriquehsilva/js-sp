@@ -1,4 +1,4 @@
-Meetup CSS SP
+Meetup JS SP
 ======
 
 [Início](../README.md) > Conduta/regras
