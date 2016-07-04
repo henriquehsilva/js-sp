@@ -13,4 +13,5 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 
 ## Meetups já realizados :ballot_box_with_check: :facepunch:
 
-* [#01 | Bankfácil - 24/02/2016](meetups/01.md)
+* [#01 | Bankfácil - 24/02/2016](http://www.meetup.com/Javascript-SP/events/228548977/)
+* [#02 | iMasters - 27/06/2016](http://www.meetup.com/Javascript-SP/events/231922503/)
