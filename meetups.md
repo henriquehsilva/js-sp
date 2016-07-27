@@ -15,3 +15,4 @@ Acha que pode nos ajudar colaborando com o local para o próximo meetup? Fale co
 
 * [#01 | Bankfácil - 24/02/2016](http://www.meetup.com/Javascript-SP/events/228548977/)
 * [#02 | iMasters - 27/06/2016](http://www.meetup.com/Javascript-SP/events/231922503/)
+* [#03 | Direct Talk - 19/07/2016](http://www.meetup.com/Javascript-SP/events/232592673/)
